@@ -1,9 +1,3 @@
-# Fabric Example Mod
+# Coral Client
 
-## Setup
-
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
-
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+I don't condone hacking - this client's purpose is to dupe/crash P2W servers. Hacks are included in the client, as it makes it easier to achieve the client's intended purpose.
