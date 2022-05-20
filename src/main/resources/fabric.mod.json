@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "coralclient",
+  "version": "0.0.1",
+
+  "name": "Coral Client",
+  "description": "A multi-purpose utility mod and hacked client for Fabric.",
+  "authors": [
+    "Mqlvin"
+  ],
+  "contact": {
+    "homepage": "unknown",
+    "sources": "unknown"
+  },
+
+  "license": "MIT",
+  "icon": "assets/modid/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.coral.client.Coral"
+    ]
+  },
+  "mixins": [
+    "coral.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.13.3",
+    "fabric": "*",
+    "minecraft": "~1.18.2",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}
